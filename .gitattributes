@@ -1,0 +1,4 @@
+# Los scripts deben conservar finales de línea LF para funcionar en bash
+*.sh text eol=lf
+*.pl text eol=lf
+*.tsv text eol=lf

@@ -1,0 +1,7 @@
+# Archivos del juego y resultados de construir: van en Releases, no en el repositorio
+*.ttarch2
+*.lenc
+*.landb
+*.zip
+release/
+salida/
